@@ -90,7 +90,7 @@ nav ul li {
     color: #fff;
     margin: 40px 0;
     transform: translateX(-100%);
-    transition: transfom 0.4s ease-in;
+    transition: transform 0.4s ease-in;
 }
 
 nav ul li i {
