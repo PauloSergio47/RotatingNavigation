@@ -1,3 +1,3 @@
 # Rotating Navigation
 
-## Terceiro projeto dos 50 - 18/02/2023
+## Terceiro projeto - 18/02/2023
